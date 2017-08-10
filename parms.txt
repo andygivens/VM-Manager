@@ -1,0 +1,4 @@
+vmrun=C:\Program Files (x86)\VMware\VMware Workstation\vmrun.exe
+vmPath=C:\Users\....\Documents\vms
+unzipDestination=x:\destination
+zipsSource=X:\source\
